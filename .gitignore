@@ -1,0 +1,12 @@
+# Java / Maven
+/backend/target/
+*.class
+*.log
+
+# Node / Vue
+/frontend/node_modules/
+dist/
+
+# Sistema
+.DS_Store
+*.env
